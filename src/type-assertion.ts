@@ -1,5 +1,5 @@
 //? type assertion
-//* explicit define a type after first type
+//* explicit define a type after first assign type syntax (as)
 const name: any = "Newton";
 
 // console.log((name as string).toUpperCase());
